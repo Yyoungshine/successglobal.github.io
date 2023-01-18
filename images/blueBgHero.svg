@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1365" height="408" viewBox="0 0 1365 408">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_2362" data-name="Rectángulo 2362" width="1365.551" height="408" transform="translate(1663)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-Tamaño_personalizado_1">
+      <rect width="1365" height="408"/>
+    </clipPath>
+  </defs>
+  <g id="Tamaño_personalizado_1" data-name="Tamaño personalizado – 1" clip-path="url(#clip-Tamaño_personalizado_1)">
+    <rect width="1365" height="408" fill="#fff"/>
+    <g id="Grupo_5198" data-name="Grupo 5198" transform="translate(0 6)">
+      <rect id="Rectángulo_2341" data-name="Rectángulo 2341" width="1366" height="408" transform="translate(0 -6)" fill="#277dc2"/>
+      <g id="Enmascarar_grupo_138" data-name="Enmascarar grupo 138" transform="translate(-1663 -6)" clip-path="url(#clip-path)">
+        <circle id="Elipse_566" data-name="Elipse 566" cx="266.75" cy="266.75" r="266.75" transform="translate(1457.301 191)" fill="#fff" opacity="0.61"/>
+        <g id="Elipse_567" data-name="Elipse 567" transform="translate(1816.551 -682.61)" fill="none" stroke="#fff" stroke-width="2" opacity="0.61">
+          <circle cx="381.305" cy="381.305" r="381.305" stroke="none"/>
+          <circle cx="381.305" cy="381.305" r="380.305" fill="none"/>
+        </g>
+        <circle id="Elipse_568" data-name="Elipse 568" cx="316" cy="316" r="316" transform="translate(2552 -377)" fill="#fff" opacity="0.45"/>
+        <g id="Grupo_5196" data-name="Grupo 5196" transform="translate(1533.551 -116.5)">
+          <circle id="Elipse_573" data-name="Elipse 573" cx="43" cy="43" r="43" transform="translate(98 298)" fill="#42aafe"/>
+          <g id="Elipse_574" data-name="Elipse 574" transform="translate(150 247)" fill="none" stroke="#fff" stroke-width="1">
+            <circle cx="66.5" cy="66.5" r="66.5" stroke="none"/>
+            <circle cx="66.5" cy="66.5" r="66" fill="none"/>
+          </g>
+          <ellipse id="Elipse_575" data-name="Elipse 575" cx="14" cy="13.5" rx="14" ry="13.5" transform="translate(156 255)" fill="#006c7d"/>
+        </g>
+      </g>
+      <ellipse id="Elipse_576" data-name="Elipse 576" cx="21" cy="21.5" rx="21" ry="21.5" transform="translate(856 114)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
