@@ -1491,6 +1491,14 @@ div.owl-item.active{
         text-align: center !important;
         padding: 0 !important;
     }
+    .staffImg img{
+        margin: 0 auto !important;
+        margin-top: 1rem !important;
+    }
+    
+    .subSection{
+        background-color: #fff !important;
+    }
     .projectContent .projectText h2{
         width: 100% !important;
         text-align: center !important;
