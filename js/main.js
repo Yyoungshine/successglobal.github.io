@@ -114,6 +114,7 @@ function remove() {
     buyHero.classList.remove("hide");
     footer.classList.remove("hide");
     gallary.classList.remove("show");
+    properties.classList.remove("hide");
     // body.classList.remove("hide");
 }
 
