@@ -1043,7 +1043,7 @@ iframe{
 .propertyContent img{
     padding: 0 1rem;
     width: 300px;
-    height: 250px;
+/*     height: 250px; */
 }
 .propertyText h4{
     color: #000;
@@ -1108,7 +1108,7 @@ iframe{
 /* gallary styling */
 .gallary{
     width: 100%;
-    height: 79.5vh;
+/*     height: 79.5vh; */
     background-color: rgba(0, 0, 0, 0.8);
     z-index: 1000;
     /* overflow-x: hidden !important; */
@@ -1520,6 +1520,13 @@ div.owl-item.active{
         justify-content: center !important;
         text-align: center !important;
         margin-top: 2rem !important;
+    }
+    
+    .gallary .gallaryContainer{
+        height: 20vh;
+    }
+    .gallary .smallGallery .smallGallary1 div img{
+        width: 100% !important;
     }
     .projectText .iconBox .icon{
         width: 100% !important;
