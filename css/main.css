@@ -1133,14 +1133,14 @@ iframe{
     color: #fff;
 }
 .gallary .gallaryContainer{
-    width: 60%;
-    height: 60vh;
+    width: 90%;
+    height: 350px;
     margin: 2rem auto;
     overflow: hidden !important;
 } 
 .gallary .gallaryContainer img{
     width: 100%;
-    height: 60vh;
+    height: 350px;
     transition: 3s ease-in-out;
 }
 .gallary .gallaryContainer img:hover{
@@ -1186,8 +1186,8 @@ div.smallGallery{
     margin-bottom: 0 !important;
 }
 .gallary .smallGallery .smallGallary1 div img{
-    width: 80% !important;
-    height: 120px !important;
+    width: 100% !important;
+    height: 90px !important;
     margin: 0 !important;
     padding: 0 !important;
     text-align: center;
