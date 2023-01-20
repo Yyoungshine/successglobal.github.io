@@ -1135,13 +1135,13 @@ iframe{
 }
 .gallary .gallaryContainer{
     width: 90%;
-    height: 380px;
-    margin: 2rem auto;
+/*     height: 380px; */
+    margin: .6rem auto;
     overflow: hidden !important;
 } 
 .gallary .gallaryContainer img{
     width: 100%;
-    height: 372.59px;
+    height: 186px;
     transition: 3s ease-in-out;
 }
 .gallary .gallaryContainer img:hover{
