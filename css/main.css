@@ -1110,7 +1110,7 @@ iframe{
 .gallary{
     width: 100%;
 /*     height: 79.5vh; */
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 1);
     z-index: 1000;
     /* overflow-x: hidden !important; */
     position: absolute;
@@ -1222,7 +1222,7 @@ div.owl-item.active{
     width: 100%;
     display: grid;
     grid-template-columns: 50% 50%;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 1);
 }
 .proDescription div{
     /* height: 80vh; */
